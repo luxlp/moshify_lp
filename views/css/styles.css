@@ -9,3 +9,70 @@
     --color-headings: #1b0760;
     --color-body: #918ca4;
 }
+
+/* Set rules on HTML elememts */
+html{
+    /* 1 x font size of the html element
+     62.5% of 16px = 10px
+     1px = 0.01rem
+     10px = 1rem
+     20px = 2rem...*/
+    font-size: 62.5%;
+}
+
+/* Define rule for the body element */
+body{
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 2.4rem;
+    /* space between lines */
+    line-height: 1.5;
+    color: var(--color-body)
+}
+
+/* Overall Heading setup */
+h1, h2, h3{
+    color: var(--color-headings);
+    margin-bottom: 1rem;
+}
+/* H1 setup */
+h1{
+    /* 70px - > 7rem */
+    font-size: 7rem;
+}
+/* H2 setup */
+h2{
+    font-size: 4rem;
+}
+/* H3 setup */
+h3{
+    font-size: 3rem;
+
+}
+/* p setup */
+p{
+    /* Due to marging collapsing, set the paragraph top margin to 0 */
+    margin-top: 0;
+}
+
+/* Media Queries: settings for desktop/laptop */
+@media screen and (min-width: 1024px){
+    body{
+        font-size: 1.8rem;
+    }
+
+    h1{
+        font-size: 8rem;
+    }
+
+    h2{
+        font-size: 4rem;
+    }
+
+    h3{
+        font-size: 2.4rem;
+    }
+
+    p{
+        font-size: 1.8rem;
+    }
+}

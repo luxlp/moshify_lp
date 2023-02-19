@@ -1,3 +1,23 @@
+Photoshop
+    Z = Zoom
+    T = Text
+    I = Ruler, eyedrop
+    Font
+        Inspect each text element
+            - font type
+            - font Size
+            - font color
+    Ruler
+        Measure the width/hight between elemets or the elemnt
+
+Google Font
+    - Search for desired Font
+        - Select Regular Size
+        - Select Bold size
+    - Copy link text
+        - Paste to HTML, before style.css, and normalize.css
+
+
 Vid 8
     Visual Components
         Logo
@@ -7,6 +27,12 @@ Vid 8
         paragraph p
         Button
         Background image
+    Desktop visual Font size (H1, h2, h3, p)
+        h1: 80px = 8rem
+        h2: 40px = 4rem
+        h3: 24px = 2.4rem
+        p: 18px = 1.8rem
+
 
 Color Palette
     Overall
@@ -16,3 +42,12 @@ Color Palette
     Text
         heading: Darker blue #1b0760
         body: Light Grey #918ca4
+
+Font   
+    Size: HTML{font-size: 62.5%}
+        rem
+Space
+    Line-Hight
+        - Space between line
+    Marging
+        - Upper space around a element
