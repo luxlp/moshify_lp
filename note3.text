@@ -1,0 +1,35 @@
+Building a Website
+Prerequisites
+    Semantic HTML
+        header: top section
+        nav: navigation bar
+        aside: side bar
+        main: top of body (title..)
+        article: Reference (https..)
+        figure: Media (images..)
+        p: paragraph
+        footer: bottom section
+    Basic CSS
+        Colors
+        Font
+        Size
+    Selectors & pseudo-Selectors
+    CSS box model
+    Absolute & relative position
+    Flex & Grid layout
+    Media Queries
+    Responsive images
+    Transformations
+    Transitions
+
+    Tools
+        Chrome
+        Visual Code
+            HTML CSS Support
+            CSS Peek
+            Prettier Formater
+            Highlight Matching Tag
+            Todo Highlight (CSS highlighted comments)
+        Git
+        Photoshop
+        

@@ -1,0 +1,18 @@
+Vid 8
+    Visual Components
+        Logo
+        Nav
+            4 links
+        Title H1
+        paragraph p
+        Button
+        Background image
+
+Color Palette
+    Overall
+        Primary: Dark Blue #2584ff
+        Sencondary: Light Blue #00d9ff
+        Accent: Orange #ff3400
+    Text
+        heading: Darker blue #1b0760
+        body: Light Grey #918ca4

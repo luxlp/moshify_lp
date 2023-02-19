@@ -1,3 +1,11 @@
-body{
-    background: gold;
+/* Define the global variable and properties */
+:root{
+    /* Overall */
+    --color-primary: #2584ff;
+    --color-sencondary: #00d9ff;
+    --color-accent: #ff3400;
+
+    /* Text */
+    --color-headings: #1b0760;
+    --color-body: #918ca4;
 }
