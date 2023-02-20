@@ -74,7 +74,11 @@ Manipulate Lists
     list-style
         type
         position
-
 BEM
     xxx__zzz
         double ident represent elemnts within a elements
+Modify location
+    justify-content
+        aligning along the primary axis (horizontal)
+    align-items
+        aligning along the secondary axis (verticle)
