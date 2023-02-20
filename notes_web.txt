@@ -51,3 +51,15 @@ Space
         - Space between line
     Marging
         - Upper space around a element
+Manipulate text
+    text-transport
+        upper
+        lower
+    text-decoration
+        decorate the text
+            none
+    pseudo
+        :hover = hover over a text with the pointer
+        ::after = add something to the front of a text
+    transition
+        - delay or speed up a element property
