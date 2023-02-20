@@ -51,6 +51,9 @@ Space
         - Space between line
     Marging
         - Upper space around a element
+    white-space
+        - Constrain a element within a sigle line
+            nowrap
 Manipulate text
     text-transport
         upper
@@ -63,3 +66,6 @@ Manipulate text
         ::after = add something to the front of a text
     transition
         - delay or speed up a element property
+badges
+    border-radius
+        - Give shape to a element (container)
