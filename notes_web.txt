@@ -82,3 +82,6 @@ Modify location
         aligning along the primary axis (horizontal)
     align-items
         aligning along the secondary axis (verticle)
+Button 
+    Cursor
+        - change pointer view when hovering over button
