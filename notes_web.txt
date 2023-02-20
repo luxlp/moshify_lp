@@ -69,3 +69,12 @@ Manipulate text
 badges
     border-radius
         - Give shape to a element (container)
+
+Manipulate Lists
+    list-style
+        type
+        position
+
+BEM
+    xxx__zzz
+        double ident represent elemnts within a elements

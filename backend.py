@@ -13,6 +13,10 @@ def about(filename):
 def send_images(filename):
     return static_file(filename, root='./views/images/')
 
+@route('/icons/<filename>')
+def send_icons(filename):
+    return static_file(filename, root='./views/icons/')
+
 @route('/videos/<filename>')
 def send_videos(filename):
     return static_file(filename, root='./views/videos/')
