@@ -12,6 +12,14 @@
     <link rel="stylesheet" href="./css/styles.css"/>
 </head>
 <body>
-
+    <div class="input-group">
+        <span class="icon-container">
+            <svg class="icon icon--primary">
+                <use xlink:href="icons/sprite.svg#wordpress"></use>
+            </svg>
+        </span>
+        <input type="text" class="input" placeholder="Enter domain name here...">
+        <!-- <button class="btn btn--accent">Search</button> -->
+    </div>
 </body>
 </html>

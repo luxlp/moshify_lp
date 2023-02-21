@@ -85,3 +85,17 @@ Modify location
 Button 
     Cursor
         - change pointer view when hovering over button
+Input
+    padding
+    border/border radius
+    outline 0
+    color: of text
+    manipulate placeholder
+        ::placeholder
+Input Group (div)
+    display: flex
+        flex-grow: 1
+            make the element grow to take the whole element space
+        move the button before the Input
+            the button will change position to the front
+        add icon also
