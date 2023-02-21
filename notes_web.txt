@@ -106,3 +106,6 @@ Card
     overflow
         hidden
             hide the over flow of the header
+plans
+    Organize the interior of Cards
+    added the list elemnts from the list componetnt html
