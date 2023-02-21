@@ -12,14 +12,13 @@
     <link rel="stylesheet" href="./css/styles.css"/>
 </head>
 <body>
-    <div class="input-group">
-        <span class="icon-container">
-            <svg class="icon icon--primary">
-                <use xlink:href="icons/sprite.svg#wordpress"></use>
-            </svg>
-        </span>
-        <input type="text" class="input" placeholder="Enter domain name here...">
-        <!-- <button class="btn btn--accent">Search</button> -->
+    <div style="width: 30%; padding: 3rem">
+        <div class="card card--secondary">
+            <header class="card__header">Card Title</header>
+            <div class="card__body">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Non, fugiat?
+            </div>
+        </div>
     </div>
 </body>
 </html>

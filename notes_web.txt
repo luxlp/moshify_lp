@@ -99,3 +99,10 @@ Input Group (div)
         move the button before the Input
             the button will change position to the front
         add icon also
+
+Card
+    header
+        double under score class
+    overflow
+        hidden
+            hide the over flow of the header
