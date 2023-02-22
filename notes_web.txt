@@ -109,3 +109,11 @@ Card
 plans
     Organize the interior of Cards
     added the list elemnts from the list componetnt html
+
+Popular Badge
+    display: inline-block
+    position relative
+    position absolute
+
+Media Object
+    
