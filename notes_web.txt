@@ -116,4 +116,7 @@ Popular Badge
     position absolute
 
 Media Object
+    An icon next to a body of text
+
+Quotes
     
