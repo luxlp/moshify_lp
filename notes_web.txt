@@ -133,3 +133,5 @@ collapsing
 nav
 
 hero
+
+optimizing images
