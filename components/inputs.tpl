@@ -4,6 +4,10 @@
             <use xlink:href="icons/sprite.svg#wordpress"></use>
         </svg>
     </span>
-    <input type="text" class="input" placeholder="Enter domain name here...">
-    <!-- <button class="btn btn--accent">Search</button> -->
+    <button class="btn btn--accent">Search</button>
+</div>
+
+<div class="input-group">
+    <input type="text" class="input" placeholder="Enter domain">
+    <button class="btn btn--accent">Search</button>
 </div>
