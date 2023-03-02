@@ -139,3 +139,7 @@ optimizing images
 Domain Block
 
 plan block
+
+features block
+    article element
+        represent each content
