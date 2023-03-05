@@ -147,4 +147,5 @@ features block
 Showcase block
 
 Testimonial block
-    
+
+Footer
